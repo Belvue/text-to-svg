@@ -1,5 +1,5 @@
 {
-  "name": "text-to-svg-vbg",
+  "name": "text-to-svg-bg",
   "version": "3.1.5",
   "description": "Convert text to SVG path without native dependence.",
   "main": "index.js",
