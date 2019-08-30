@@ -1,8 +1,12 @@
-# text-to-svg
+# text-to-svg-bg
 
-[![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url]
+[![NPM version][npm-image]][npm-url]
 
 Convert text to SVG path without native dependence.
+
+Added support for background color option.
+
+Demo: https://svg.belvue.info/
 
 ```js
 const TextToSVG = require('text-to-svg');
@@ -166,16 +170,13 @@ MIT
 
 ## Credits
 
-text-to-svg depends on the following softwares. I thank great authors a lot.
+text-to-svg-bg depends on the following softwares. I thank great authors a lot.
 
+- [text-to-svg](https://github.com/shrhdk/text-to-svg) shrhdk
 - [opentype.js](https://github.com/nodebox/opentype.js): Copyright (c) 2015 Frederik De Bleser
 - [commander](https://github.com/tj/commander.js): Copyright (c) 2011 TJ Holowaychuk <tj@vision-media.ca>
 
 These are released under the [MIT license](https://opensource.org/licenses/MIT)
 
 [npm-url]: https://npmjs.org/package/text-to-svg
-[npm-image]: https://badge.fury.io/js/text-to-svg.svg
-[travis-url]: https://travis-ci.org/shrhdk/text-to-svg
-[travis-image]: https://travis-ci.org/shrhdk/text-to-svg.svg?branch=master
-[gitter-url]: https://gitter.im/shrhdk/text-to-svg
-[gitter-image]: https://badges.gitter.im/Join%20Chat.svg
+[npm-image]: https://badge.fury.io/js/text-to-svg-bg.svg
