@@ -178,5 +178,5 @@ text-to-svg-bg depends on the following softwares. I thank great authors a lot.
 
 These are released under the [MIT license](https://opensource.org/licenses/MIT)
 
-[npm-url]: https://npmjs.org/package/text-to-svg
+[npm-url]: https://npmjs.org/package/text-to-svg-bg
 [npm-image]: https://badge.fury.io/js/text-to-svg-bg.svg
